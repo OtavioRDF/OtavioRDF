@@ -1,6 +1,5 @@
 ### Hello 🤙
 
-- 🔭 I’m currently working as a developer at PROOF
 - 🌱 I’m currently learning CSS, JavaScript, TypeScript, Java, Spring framework
 - 📫 How to reach me: otavio.rodf@gmail.com
 - 😄 Pronouns: he/him
