@@ -1,6 +1,6 @@
 ### Hello 🤙
 
-- 🌱 I’m currently learning CSS, JavaScript, TypeScript, Java, Spring framework
+- 🌱 I’m currently learning Java, Spring framework and Angular
 - 📫 How to reach me: otavio.rodf@gmail.com
 - 😄 Pronouns: he/him
 
