@@ -1,13 +1,7 @@
 ### Hello 🤙
 
-- 🌱 I’m currently learning NestJS and Angular
-- 📫 How to reach me: otavio.rodf@gmail.com
 - 😄 Pronouns: he/him
-
-<div align="center">
-  <a href="https://github.com/otavordf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviordf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+- 📫 How to reach me: otavio.rodf@gmail.com
 
 ## Lookin foward to learn:
   
